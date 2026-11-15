@@ -1,0 +1,57 @@
+p {
+  color: rgb(0, 0, 0);
+}
+h1 {
+  color: rgb(32, 78, 32);
+}
+
+div{ 
+    background-color: rgb(92, 205, 250);
+    width: 30%;
+}
+
+#usdiv
+{
+   background-color: rgb(108, 213, 255); 
+ }
+ 
+#londiv
+  {  
+    background-color: rgb(101, 101, 244)
+  }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+#contact
+{
+  width: 100%;
+}
+#contact.iframe{
+  width: 20%;
+}
+
+body{
+  background: linear-gradient(to left, rgb(0, 179, 255),white,blue);
+}
